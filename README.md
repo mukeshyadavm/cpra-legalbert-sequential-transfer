@@ -3,7 +3,7 @@
 This notebook (`LegalBERT_SNLI_fine_tuning.ipynb`) performs the first stage of the Sequential Transfer Learning pipeline for CPRA compliance detection.
 
 ##  Purpose
-Fine-tune **LegalBERT** on the **SNLI (Stanford Natural Language Inference)** dataset to teach the model:
+Fine-tune LegalBERT on the SNLI (Stanford Natural Language Inference)** dataset to teach the model:
 - Entailment
 - Contradiction
 - Neutral reasoning
@@ -35,5 +35,5 @@ The notebook produces:
 ##  Next Step
 After this notebook, continue with:
 
-**02_Dataset_Preparation.ipynb**  
+02_Dataset_Preparation.ipynb**  
 to build the CPRA-specific training dataset.
