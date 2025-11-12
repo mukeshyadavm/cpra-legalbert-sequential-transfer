@@ -1,49 +1,41 @@
-# LegalBERT SNLI Fine-Tuning
 
-This notebook (`LegalBERT_SNLI_fine_tuning.ipynb`) performs the first stage of the Sequential Transfer Learning pipeline for CPRA compliance detection.
+This script, `extract_opp115_policies.py`, aggregates privacy policy text from the **OPP-115 dataset**.  
+It combines policy content from multiple CSV files into a single, structured dataset for downstream NLP or compliance analysis.
+
+---
 
 ##  Purpose
-Fine-tune LegalBERT on the SNLI (Stanford Natural Language Inference) dataset to teach the model:
-- Entailment  
-- Contradiction  
-- Neutral reasoning  
-
-This stage builds general NLI capability before adapting the model to CPRA-specific legal clauses.
+The goal is to consolidate all privacy policy statements (from the 4th column of each OPP-115 CSV) into a single file that can be used for:
+- LegalBERT or LegalT5 pretraining  
+- Natural Language Inference (NLI) model fine-tuning  
+- Privacy compliance classification tasks  
 
 ---
 
-##  Workflow
-1. Load SNLI dataset  
-2. Preprocess & tokenize using LegalBERT  
-3. Train LegalBERT on 3-way NLI labels  
-4. Evaluate model performance  
-5. Save fine-tuned model weights for the next training stage  
+##  How It Works
+1. Reads all `.csv` files in the specified directory (`/mnt/gdrive/MyDrive/OPP-115/pretty_print`).  
+2. Checks each file for at least 4 columns.  
+3. Extracts policy text from **column 4** (index 3).  
+4. Skips files with fewer than 4 columns.  
+5. Combines all policies into a single Pandas DataFrame.  
+6. Saves the merged data as a unified CSV file.
 
 ---
+
+##  Output
+After execution, a single CSV file is generated:
+
+
+
 
 
 ##  Requirements
-Make sure the following dependencies are installed before running the notebook or script:
+
+Make sure the following dependencies are installed:
 
 ```bash
-# Python version
 python>=3.9
-
-# Core libraries
-torch>=2.0.0
-transformers>=4.30.0
-datasets>=2.12.0
-tokenizers>=0.13.3
+pandas>=2.0.0
 numpy
-pandas
-scikit-learn
 tqdm
-matplotlib
-seaborn
-
-# Optional (for Colab or Drive mounting)
-google-colab
-huggingface_hub
-
-
-
+pip install -r requirements.txt
