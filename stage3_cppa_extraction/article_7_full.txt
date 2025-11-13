@@ -1,0 +1,571 @@
+§ 7050. Service Providers and Contractors. ..................................................................................... 47 
+§ 7051. Contract Requirements for Service Providers and Contractors. ........................................ 49 
+§ 7052. Third Parties. ....................................................................................................................... 51 
+§ 7053. Contract Requirements for Third Parties. ........................................................................... 51 
+ARTICLE 5 . VERIFICATION OF REQUESTS .................................................................................... 52 
+§ 7060. General Rules Regarding Verification. ................................................................................ 52 
+§ 7061. Verification for Password-Protected Accounts. .................................................................. 54 
+§ 7062. Verification for Non-Accountholders. ................................................................................. 55 
+§ 7063. Authorized Agents. ............................................................................................................. 56 
+ARTICLE 6 . SPECIAL RULES REGARDING CONSUMERS UNDER 16 YEARS OF AGE .......................... 57 
+§ 7070. Consumers Less Than 13 Years of Age. ............................................................................... 57 
+§ 7071. Consumers at Least 13 Years of Age and Less Than 16 Years of Age. ................................ 58 
+§ 7072. Notices to Consumers Less Than 16 Years of Age. ............................................................. 58 
+ARTICLE 7 . NON-DISCRIMINATION ............................................................................................. 58 
+§ 7080. Discriminatory Practices. .................................................................................................... 58 
+§ 7081. Calculating the Value of Consumer Data. ........................................................................... 60 
+ARTICLE 8 . TRAINING AND RECORD-KEEPING............................................................................. 61 
+§ 7100. Training. .............................................................................................................................. 61 
+§ 7050. Service Providers and Contractors. 
+(a) A service provider or contractor shall not retain, use, or disclose personal information 
+collected pursuant to its written contract with the business except:  
+(1) For the specific business purpose(s) set forth in the written contract between the 
+business and the service provider or contractor that is required by the CCPA and 
+these regulations. 
+(2) To retain and employ another service provider or contractor as a subcontractor, 
+where the subcontractor meets the requirements for a service provider or contractor 
+under the CCPA and these regulations. 
+(3) For internal use by the service provider or contractor to build or improve the quality 
+of the services it is providing to the business, even if this business purpose is not 
+specified in the written contract required by the CCPA and these regulations, 
+provided that the service provider or contractor does not use the personal 
+information to perform services on behalf of another person. Illustrative examples 
+follow. 
+(A) An email marketing service provider can send emails on a business’s behalf using 
+the business’s customer email list. The service provider could analyze those 
+customers’ interactions with the marketing emails to improve its services and 
+offer those improved services to everyone. But the service provider cannot use 
+the original email list to send marketing emails on behalf of another business.  
+(B) A shipping service provider that delivers businesses’ products to their customers 
+may use the addresses received from their business clients and their experience 
+delivering to those addresses to identify faulty or incomplete addresses, and 
+thus, improve their delivery services. However, the shipping service provider 
+cannot compile the addresses received from one business to send 
+advertisements on behalf of another business, or compile addresses received 
+from businesses to sell to data brokers. 
+(4) To prevent, detect, or investigate data security incidents or protect against malicious, 
+deceptive, fraudulent or illegal activity, even if this business purpose is not specified 
+in the written contract required by the CCPA and these regulations. 
+
+CPPA
+ 
+Page 48 of 67 
+(5) For the purposes enumerated in Civil Code section 1798.145, subdivisions (a)(1) 
+through (a)(7). 
+(b) A service provider or contractor cannot contract with a business to provide cross-context 
+behavioral advertising. Pursuant to Civil Code section 1798.140, subdivision (e)(6), a service 
+provider or contractor may contract with a business to provide advertising and marketing 
+services, but the service provider or contractor shall not combine the personal information 
+of consumers who have opted-out of the sale/sharing that the service provider or 
+contractor receives from, or on behalf of, the business with personal information that the 
+service provider or contractor receives from, or on behalf of, another person or collects 
+from its own interaction with consumers. A person who contracts with a business to 
+provide cross-context behavioral advertising is a third party and not a service provider or 
+contractor with respect to cross-context behavioral advertising services. Illustrative 
+examples follow. 
+(1) Business S, a clothing company, hires a social media company as a service provider 
+for the purpose of providing Business S’s advertisements on the social media 
+company’s platform. The social media company can serve Business S by providing 
+non-personalized advertising services on its platform based on aggregated or 
+demographic information (e.g., advertisements to women, 18-30 years old, that live 
+in Los Angeles). However, it cannot use a list of customer email addresses provided 
+by Business S to identify users on the social media company’s platform to serve 
+advertisements to them. 
+(2) Business T, a company that sells cookware, hires an advertising company as a service 
+provider for the purpose of advertising its services. The advertising agency can serve 
+Business T by providing contextual advertising services, such as placing 
+advertisements for Business T’s products on websites that post recipes and other 
+cooking tips.  
+(c) If a service provider or contractor receives a request made pursuant to the CCPA directly 
+from the consumer, the service provider or contractor shall either act on behalf of the 
+business in accordance with the business’s instructions for responding to the request or 
+inform the consumer that the request cannot be acted upon because the request has been 
+sent to a service provider or contractor.  
+(d) A service provider or contractor that is a business shall comply with the CCPA and these 
+regulations with regard to any personal information that it collects, maintains, or sells 
+outside of its role as a service provider or contractor.  
+(e) A person who does not have a contract that complies with section 7051, subsection (a), is 
+not a service provider or a contractor under the CCPA. For example, a business’s disclosure 
+of personal information to a person who does not have a contract that complies with 
+section 7051, subsection (a), may be considered a sale or sharing of personal information 
+
+CPPA
+ 
+Page 49 of 67 
+for which the business must provide the consumer with the right to opt-out of 
+sale/sharing. 
+(f) A service provider or a contractor shall comply with the terms of the contract required by 
+the CCPA and these regulations. 
+(g) Whether an entity that provides services to a nonbusiness must comply with a consumer’s 
+CCPA request depends upon whether the entity is a “business,” as defined by Civil Code 
+section 1798.140, subdivision (d).  
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 
+1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.130, 1798.135, 1798.140 and 
+1798.185, Civil Code. 
+§ 7051. Contract Requirements for Service Providers and Contractors. 
+(a)  The contract required by the CCPA for service providers and contractors shall: 
+(1)  Prohibit the service provider or contractor from selling or sharing personal 
+information it collects pursuant to the written contract with the business. 
+(2)  Identify the specific business purpose(s) for which the service provider or contractor is 
+processing personal information pursuant to the written contract with the business, 
+and specify that the business is disclosing the personal information to the service 
+provider or contractor only for the limited and specified business purpose(s) set forth 
+within the contract. The business purpose(s) shall not be described in generic terms, 
+such as referencing the entire contract generally. The description shall be specific. 
+(3)  Prohibit the service provider or contractor from retaining, using, or disclosing the 
+personal information that it collected pursuant to the written contract with the 
+business for any purpose other than the business purpose(s) specified in the contract 
+or as otherwise permitted by the CCPA and these regulations.  
+(4)  Prohibit the service provider or contractor from retaining, using, or disclosing the 
+personal information that it collected pursuant to the written contract with the 
+business for any commercial purpose other than the business purpose(s) specified in 
+the contract, unless expressly permitted by the CCPA or these regulations.  
+(5)  Prohibit the service provider or contractor from retaining, using, or disclosing the 
+personal information that it collected pursuant to the written contract with the 
+business outside the direct business relationship between the service provider or 
+contractor and the business, unless expressly permitted by the CCPA or these 
+regulations. For example, a service provider or contractor shall be prohibited from 
+combining or updating personal information that it collected pursuant to the written 
+contract with the business with personal information that it received from another 
+
+CPPA
+ 
+Page 50 of 67 
+source or collected from its own interaction with the consumer, unless expressly 
+permitted by the CCPA or these regulations. 
+(6)  Require the service provider or contractor to comply with all applicable sections of the 
+CCPA and these regulations, including—with respect to the personal information that 
+it collected pursuant to the written contract with the business—providing the same 
+level of privacy protection as required of businesses by the CCPA and these 
+regulations. For example, the contract may require the service provider or contractor 
+to cooperate with the business in responding to and complying with consumers’ 
+requests made pursuant to the CCPA, and to implement reasonable security 
+procedures and practices appropriate to the nature of the personal information to 
+protect the personal information from unauthorized or illegal access, destruction, use, 
+modification, or disclosure in accordance with Civil Code section 1798.81.5. 
+(7)  Grant the business the right to take reasonable and appropriate steps to ensure that 
+the service provider or contractor uses the personal information that it collected 
+pursuant to the written contract with the business in a manner consistent with the 
+business’s obligations under the CCPA and these regulations. Reasonable and 
+appropriate steps may include ongoing manual reviews and automated scans of the 
+service provider’s system and regular internal or third-party assessments, audits, or 
+other technical and operational testing at least once every 12 months.  
+(8)  Require the service provider or contractor to notify the business after it makes a 
+determination that it can no longer meet its obligations under the CCPA and these 
+regulations.  
+(9)  Grant the business the right, upon notice, to take reasonable and appropriate steps to 
+stop and remediate the service provider or contractor’s unauthorized use of personal 
+information. For example, the business may require the service provider or contractor 
+to provide documentation that verifies that they no longer retain or use the personal 
+information of consumers that have made a valid request to delete with the business. 
+(10) Require the service provider or contractor to enable the business to comply with 
+consumer requests made pursuant to the CCPA or require the business to inform the 
+service provider or contractor of any consumer request made pursuant to the CCPA 
+that they must comply with and provide the information necessary for the service 
+provider or contractor to comply with the request.  
+(b) A service provider or contractor that subcontracts with another person in providing 
+services to the business for whom it is a service provider or contractor shall have a contract 
+with the subcontractor that complies with the CCPA and these regulations, including 
+subsection (a).  
+(c) Whether a business conducts due diligence of its service providers and contractors factors 
+into whether the business has reason to believe that a service provider or contractor is 
+
+CPPA
+ 
+Page 51 of 67 
+using personal information in violation of the CCPA and these regulations. For example, 
+depending on the circumstances, a business that never enforces the terms of the contract 
+nor exercises its rights to audit or test the service provider’s or contractor’s systems might 
+not be able to rely on the defense that it did not have reason to believe that the service 
+provider or contractor intends to use the personal information in violation of the CCPA and 
+these regulations at the time the business disclosed the personal information to the service 
+provider or contractor. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 
+1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.130, 1798.135, 1798.140 and 
+1798.185, Civil Code. 
+§ 7052. Third Parties. 
+(a) A third party that does not have a contract that complies with section 7053, subsection (a), 
+shall not collect, use, process, retain, sell, or share the personal information that the 
+business made available to it. 
+(b) A third party shall comply with the terms of the contract required by the CCPA and these 
+regulations, which include treating the personal information that the business made 
+available to it in a manner consistent with the business’s obligations under the CCPA and 
+these regulations. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 
+1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.130, 1798.135, 1798.140 and 
+1798.185, Civil Code. 
+§ 7053. Contract Requirements for Third Parties. 
+(a) A business that sells or shares a consumer’s personal information with a third party shall 
+enter into an agreement with the third party that: 
+(1) Identifies the limited and specified purpose(s) for which the personal information is 
+made available to the third party. The purpose(s) shall not be described in generic 
+terms, such as referencing the entire contract generally. The description shall be 
+specific. 
+(2) Specifies that the business is making the personal information available to the third 
+party only for the limited and specified purpose(s) set forth within the contract and 
+requires the third party to use it only for that limited and specified purpose(s).  
+(3) Requires the third party to comply with all applicable sections of the CCPA and these 
+regulations, including—with respect to the personal information that the business 
+makes available to the third party—providing the same level of privacy protection as 
+required of businesses by the CCPA and these regulations. For example, the contract 
+may require the third party to comply with a consumer’s request to opt-out of 
+
+CPPA
+ 
+Page 52 of 67 
+sale/sharing forwarded to it by a first-party business and to implement reasonable 
+security procedures and practices appropriate to the nature of the personal 
+information to protect the personal information from unauthorized or illegal access, 
+destruction, use, modification, or disclosure in accordance with Civil Code section 
+1798.81.5. 
+(4) Grants the business the right—with respect to the personal information that the 
+business makes available to the third party—to take reasonable and appropriate 
+steps to ensure that the third party uses it in a manner consistent with the business’s 
+obligations under the CCPA and these regulations. For example, the business may 
+require the third party to attest that it treats the personal information the business 
+made available to it in the same manner that the business is obligated to treat it 
+under the CCPA and these regulations.  
+(5) Grants the business the right, upon notice, to take reasonable and appropriate steps 
+to stop and remediate unauthorized use of personal information made available to 
+the third party. For example, the business may require the third party to provide 
+documentation that verifies that it no longer retains or uses the personal information 
+of consumers who have had their requests to opt-out of sale/sharing forwarded to it 
+by the first party business. 
+(6) Requires the third party to notify the business after it makes a determination that it 
+can no longer meet its obligations under the CCPA and these regulations. 
+(b) Whether a business conducts due diligence of the third party factors into whether the 
+business has reason to believe that the third party is using personal information in 
+violation of the CCPA and these regulations. For example, depending on the circumstances, 
+a business that never enforces the terms of the contract might not be able to rely on the 
+defense that it did not have reason to believe that the third party intends to use the 
+personal information in violation of the CCPA and these regulations at the time the 
+business disclosed the personal information to the third party.  
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 
+1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.130, 1798.135, 1798.140 and 
+1798.185, Civil Code. 
+ARTICLE 5. VERIFICATION OF REQUESTS 
+§ 7060. General Rules Regarding Verification. 
+(a) A business shall establish, document, and comply with a reasonable method for verifying 
+that the person making a request to delete, request to correct, or request to know is the 
+consumer about whom the business has collected information.  
+
+CPPA
+ 
+Page 53 of 67 
+(b) A business shall not require a consumer to verify their identity to make a request to opt-
+out of sale/sharing or to make a request to limit. A business may ask the consumer for 
+information necessary to complete the request; however, it shall not be burdensome on 
+the consumer. For example, a business may ask the consumer for their name, but it shall 
+not require the consumer to take a picture of themselves with their driver’s license. 
+(c) In determining the method by which the business will verify the consumer’s identity, the 
+business shall: 
+(1)  Whenever feasible, match the identifying information provided by the consumer to 
+the personal information of the consumer already maintained by the business, or use 
+a third-party identity verification service that complies with this section. 
+(2)  Avoid collecting the types of personal information identified in Civil Code section 
+1798.81.5, subdivision (d), unless necessary for the purpose of verifying the 
+consumer.  
+(3)  Consider the following factors: 
+(A)  The type, sensitivity, and value of the personal information collected and 
+maintained about the consumer. Sensitive personal information shall warrant a 
+more stringent verification process.  
+(B) The risk of harm to the consumer posed by any unauthorized deletion, 
+correction, or access. A greater risk of harm to the consumer by unauthorized 
+deletion, correction, or access shall warrant a more stringent verification 
+process. 
+(C) The likelihood that fraudulent or malicious actors would seek the personal 
+information. The higher the likelihood, the more stringent the verification 
+process shall be. 
+(D) Whether the personal information to be provided by the consumer to verify 
+their identity is sufficiently robust to protect against fraudulent requests or 
+being spoofed or fabricated. 
+(E) The manner in which the business interacts with the consumer. 
+(F) Available technology for verification. 
+(d) A business shall generally avoid requesting additional information from the consumer for 
+purposes of verification. If, however, the business cannot verify the identity of the 
+consumer from the information already maintained by the business, the business may 
+request additional information from the consumer, which shall only be used for the 
+purposes of verifying the identity of the consumer seeking to exercise their rights under 
+the CCPA, security, or fraud-prevention. The business shall delete any new personal 
+
+CPPA
+ 
+Page 54 of 67 
+information collected for the purposes of verification as soon as practical after processing 
+the consumer’s request, except as required to comply with section 7101. 
+(e) A business shall not require the consumer or the consumer’s authorized agent to pay a fee 
+for the verification of their request to delete, request to correct, or request to know. For 
+example, a business may not require a consumer to provide a notarized affidavit to verify 
+their identity unless the business compensates the consumer for the cost of notarization. 
+(f) A business shall implement reasonable security measures to detect fraudulent identity-
+verification activity and prevent the unauthorized deletion, correction, or access of a 
+consumer’s personal information.  
+(g) If a business maintains consumer information that is deidentified, a business is not 
+obligated to provide or delete this information in response to a consumer request or to re-
+identify individual data to verify a consumer request. 
+(h) For requests to correct, the business shall make an effort to verify the consumer based on 
+personal information that is not the subject of the request to correct. For example, if the 
+consumer is contending that the business has the wrong address for the consumer, the 
+business shall not use address as a means of verifying the consumer’s identity. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 
+1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.130, 1798.135, 1798.140 and 
+1798.185, Civil Code. 
+§ 7061. Verification for Password-Protected Accounts.  
+(a)  If a business maintains a password-protected account with the consumer, the business may 
+verify the consumer’s identity through the business’s existing authentication practices for 
+the consumer’s account, provided that the business follows the requirements in section 
+7060. The business shall also require a consumer to re-authenticate themselves before 
+deleting, correcting, or disclosing the consumer’s data.  
+(b) If a business suspects fraudulent or malicious activity on or from the password-protected 
+account, the business shall not comply with a consumer’s request to delete, request to 
+correct, or request to know until further verification procedures determine that the 
+consumer request is authentic and the consumer making the request is the person about 
+whom the business has collected information. The business may use the procedures set 
+forth in section 7062 to further verify the identity of the consumer. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 
+1798.106, 1798.110, 1798.115, 1798.130 and 1798.185, Civil Code. 
+
+CPPA
+ 
+Page 55 of 67 
+§ 7062. Verification for Non-Accountholders. 
+(a)  If a consumer does not have or cannot access a password-protected account with a 
+business, the business shall comply with this section, in addition to section 7060. 
+(b) A business’s compliance with a request to know categories of personal information 
+requires that the business verify the identity of the consumer making the request to a 
+reasonable degree of certainty. A reasonable degree of certainty may include matching at 
+least two data points provided by the consumer with data points maintained by the 
+business that it has determined to be reliable for the purpose of verifying the consumer. 
+(c) A business’s compliance with a request to know specific pieces of personal information 
+requires that the business verify the identity of the consumer making the request to a 
+reasonably high degree of certainty. A reasonably high degree of certainty may include 
+matching at least three pieces of personal information provided by the consumer with 
+personal information maintained by the business that it has determined to be reliable for 
+the purpose of verifying the consumer together with a signed declaration under penalty of 
+perjury that the requestor is the consumer whose personal information is the subject of 
+the request. If a business uses this method for verification, the business shall maintain all 
+signed declarations as part of its record-keeping obligations.  
+(d) A business’s compliance with a request to delete or a request to correct may require that 
+the business verify the identity of the consumer to a reasonable or reasonably high degree 
+of certainty depending on the sensitivity of the personal information and the risk of harm 
+to the consumer posed by unauthorized deletion or correction. For example, the deletion 
+of family photographs or the correction of contact information may require a reasonably 
+high degree of certainty, while the deletion of browsing history or correction of marital 
+status may require only a reasonable degree of certainty. A business shall act in good faith 
+when determining the appropriate standard to apply when verifying the consumer in 
+accordance with these regulations.   
+(e) Illustrative examples follow: 
+(1) Example 1: If a business maintains personal information in a manner associated with 
+a named actual person, the business may verify the consumer by requiring the 
+consumer to provide evidence that matches the personal information maintained by 
+the business. For example, if a retailer maintains a record of purchases made by a 
+consumer, the business may require the consumer to identify items that they 
+recently purchased from the store or the dollar amount of their most recent purchase 
+to verify their identity to a reasonable degree of certainty.  
+ 
+(2) Example 2: If a business maintains personal information in a manner that is not 
+associated with a named actual person, the business may verify the consumer by 
+requiring the consumer to demonstrate that they are the sole consumer associated 
+with the personal information. For example, a business may have a mobile 
+
+CPPA
+ 
+Page 56 of 67 
+application that collects personal information about the consumer but does not 
+require an account. The business may determine whether, based on the facts and 
+considering the factors set forth in section 7060, subsection (b)(3), it may reasonably 
+verify a consumer by asking them to provide information that only the person who 
+used the mobile application may know or by requiring the consumer to respond to a 
+notification sent to their device.  
+(f) A business shall deny a request to know specific pieces of personal information if it cannot 
+verify the identity of the requestor pursuant to these regulations.  
+(g) If there is no reasonable method by which a business can verify the identity of the 
+consumer to the degree of certainty required by this section, the business shall state so in 
+response to any request and explain why it has no reasonable method by which it can 
+verify the identity of the requestor. If the business has no reasonable method by which it 
+can verify any consumer, the business shall explain why it has no reasonable verification 
+method in its privacy policy. The business shall evaluate and document whether a 
+reasonable method can be established at least once every 12 months, in connection with 
+the requirement to update the privacy policy set forth in Civil Code section 1798.130, 
+subdivision (a)(5). 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 
+1798.106, 1798.110, 1798.115, 1798.130 and 1798.185, Civil Code. 
+§ 7063. Authorized Agents. 
+(a)  When a consumer uses an authorized agent to submit a request to delete, request to 
+correct, or a request to know, a business may require the authorized agent to provide 
+proof that the consumer gave the agent signed permission to submit the request. The 
+business may also require the consumer to do either of the following:  
+(1)  Verify their own identity directly with the business.  
+(2) Directly confirm with the business that they provided the authorized agent 
+permission to submit the request. 
+(b) Subsection (a) does not apply when a consumer has provided the authorized agent with 
+power of attorney pursuant to Probate Code sections 4121 to 4130. A business shall not 
+require power of attorney in order for a consumer to use an authorized agent to act on 
+their behalf. 
+(c)  An authorized agent shall implement and maintain reasonable security procedures and 
+practices to protect the consumer’s information. 
+(d) An authorized agent shall not use a consumer’s personal information, or any information 
+collected from or about the consumer, for any purposes other than to fulfill the consumer’s 
+requests, verification, or fraud prevention. 
+
+CPPA
+ 
+Page 57 of 67 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 
+1798.106, 1798.110, 1798.115, 1798.130 and 1798.185, Civil Code. 
+ARTICLE 6. SPECIAL RULES REGARDING CONSUMERS UNDER 16 YEARS OF AGE 
+§ 7070. Consumers Less Than 13 Years of Age. 
+(a)  Process for Opting-In to Sale or Sharing of Personal Information 
+(1)  A business that has actual knowledge that it sells or shares the personal information 
+of a consumer less than the age of 13 shall establish, document, and comply with a 
+reasonable method for determining that the person consenting to the sale or sharing 
+of the personal information about the child is the parent or guardian of that child. 
+This consent to the sale or sharing of personal information is in addition to any 
+verifiable parental consent required under COPPA. 
+(2) Methods that are reasonably calculated to ensure that the person providing consent 
+is the child’s parent or guardian include, but are not limited to: 
+(A) Providing a consent form to be signed by the parent or guardian under penalty 
+of perjury and returned to the business by postal mail, facsimile, or electronic 
+scan;  
+(B) Requiring a parent or guardian, in connection with a monetary transaction, to 
+use a credit card, debit card, or other online payment system that provides 
+notification of each discrete transaction to the primary account holder; 
+(C) Having a parent or guardian call a toll-free telephone number staffed by trained 
+personnel;  
+(D) Having a parent or guardian connect to trained personnel via video-conference; 
+(E) Having a parent or guardian communicate in person with trained personnel; 
+and 
+(F) Verifying a parent or guardian’s identity by checking a form of government-
+issued identification against databases of such information, as long as the 
+parent or guardian’s identification is deleted by the business from its records 
+promptly after such verification is complete. 
+(b) When a business receives consent to the sale or sharing of personal information pursuant 
+to subsection (a), the business shall inform the parent or guardian of the right to opt-out of 
+sale/sharing and of the process for doing so on behalf of their child pursuant to section 
+7026, subsections (a)-(f). 
+
+CPPA
+ 
+Page 58 of 67 
+(c) A business shall establish, document, and comply with a reasonable method, in accordance 
+with the methods set forth in subsection (a)(2), for determining that a person submitting a 
+request to delete, request to correct, or request to know the personal information of a 
+child under the age of 13 is the parent or guardian of that child. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.120, 1798.135 and 
+1798.185, Civil Code. 
+§ 7071. Consumers at Least 13 Years of Age and Less Than 16 Years of Age. 
+(a)  A business that has actual knowledge that it sells or shares the personal information of 
+consumers at least 13 years of age and less than 16 years of age shall establish, document, 
+and comply with a reasonable process for allowing such consumers to opt-in to the sale or 
+sharing of their personal information, pursuant to section 7028. 
+(b) When a business receives a request to opt-in to the sale or sharing of personal information 
+from a consumer at least 13 years of age and less than 16 years of age, the business shall 
+inform the consumer of their ongoing right to opt-out of sale/sharing at any point in the 
+future and of the process for doing so pursuant to section 7026. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.120, 1798.135 and 
+1798.185, Civil Code. 
+§ 7072. Notices to Consumers Less Than 16 Years of Age. 
+(a)  A business subject to sections 7070 and/or 7071 shall include a description of the 
+processes set forth in those sections in its privacy policy. 
+(b) A business that exclusively targets offers of goods or services directly to consumers under 
+16 years of age and does not sell or share the personal information without the consent of 
+consumers at least 13 years of age and less than 16 years of age, or the consent of their 
+parent or guardian for consumers under 13 years of age, is not required to provide the 
+Notice of Right to Opt-out of Sale/Sharing.  
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.120, 1798.135 and 
+1798.185, Civil Code. 
+ARTICLE 7. NON-DISCRIMINATION 
+§ 7080. Discriminatory Practices. 
+(a)  A price or service difference is discriminatory, and therefore prohibited by Civil Code 
+section 1798.125, if the business treats a consumer differently because the consumer 
+exercised a right conferred by the CCPA or these regulations.  
+
+CPPA
+ 
+Page 59 of 67 
+(b) A business may offer a price or service difference that is non-discriminatory. A price or 
+service difference is non-discriminatory if it is reasonably related to the value of the 
+consumer’s data. If a business is unable to calculate a good-faith estimate of the value of 
+the consumer’s data or cannot show that the price or service difference is reasonably 
+related to the value of the consumer’s data, that business shall not offer the price or 
+service difference. 
+(c) A business’s denial of a consumer’s request to delete, request to correct, request to know, 
+or request to opt-out of sale/sharing for reasons permitted by the CCPA or these 
+regulations shall not be considered discriminatory. 
+(d) Illustrative examples follow: 
+(1) Example 1: A music streaming business offers a free service as well as a premium 
+service that costs $5 per month. If only the consumers who pay for the music 
+streaming service are allowed to opt-out of the sale or sharing of their personal 
+information, then the practice is discriminatory, unless the $5-per-month payment is 
+reasonably related to the value of the consumer’s data to the business. 
+(2) Example 2: A clothing business offers a loyalty program whereby customers receive a 
+$5-off coupon by email after spending $100 with the business. A consumer submits a 
+request to delete all personal information the business has collected about them but 
+also informs the business that they want to continue to participate in the loyalty 
+program. The business may deny their request to delete with regard to their email 
+address and the amount the consumer has spent with the business because that 
+information is necessary for the business to provide the loyalty program requested by 
+the consumer and is reasonably anticipated within the context of the business’s 
+ongoing relationship with them pursuant to Civil Code section 1798.105, subdivision 
+(d)(1).  
+(3) Example 3: A grocery store offers a loyalty program whereby consumers receive 
+coupons and special discounts when they provide their phone numbers. A consumer 
+submits a request to opt-out of the sale/sharing of their personal information. The 
+retailer complies with their request but no longer allows the consumer to participate 
+in the loyalty program. This practice is discriminatory unless the grocery store can 
+demonstrate that the value of the coupons and special discounts are reasonably 
+related to the value of the consumer’s data to the business. 
+(4) Example 4: An online bookseller collects information about consumers, including 
+their email addresses. It offers coupons to consumers through browser pop-up 
+windows while the consumer uses the bookseller’s website. A consumer submits a 
+request to delete all personal information that the bookseller has collected about 
+them, including their email address and their browsing and purchasing history. The 
+bookseller complies with the request but stops providing the periodic coupons to the 
+consumer. The bookseller’s failure to provide coupons is discriminatory unless the 
+
+CPPA
+ 
+Page 60 of 67 
+value of the coupons is reasonably related to the value provided to the business by 
+the consumer’s data. The bookseller may not deny the consumer’s request to delete 
+with regard to the email address because the email address is not necessary to 
+provide the coupons or reasonably aligned with the expectations of the consumer 
+based on the consumer’s relationship with the business. 
+(e) A business shall notify consumers of any financial incentive or price or service difference 
+subject to Civil Code section 1798.125 that it offers in accordance with section 7016. 
+(f) A business’s charging of a reasonable fee pursuant to Civil Code section 1798.145, 
+subdivision (h)(3), shall not be considered a financial incentive subject to these regulations. 
+(g) A price or service difference that is the direct result of compliance with a state or federal 
+law shall not be considered discriminatory. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.125, 1798.130 and 
+1798.185, Civil Code. 
+§ 7081. Calculating the Value of Consumer Data. 
+(a) A business offering a price or service difference subject to Civil Code section 1798.125 shall 
+use and document a reasonable and good-faith method for calculating the value of the 
+consumer’s data. The business shall consider one or more of the following: 
+(1)  The marginal value to the business of the sale, collection, or deletion of a consumer’s 
+data. 
+(2)  The average value to the business of the sale, collection, or deletion of a consumer’s 
+data. 
+(3)  The aggregate value to the business of the sale, collection, or deletion of consumers’ 
+data divided by the total number of consumers. 
+(4)  Revenue generated by the business from sale, collection, or retention of consumers’ 
+personal information. 
+(5)  Expenses related to the sale, collection, or retention of consumers’ personal 
+information. 
+(6)  Expenses related to the offer, provision, or imposition of any financial incentive or 
+price or service difference. 
+(7)  Profit generated by the business from sale, collection, or retention of consumers’ 
+personal information. 
+(8)  Any other practical and reasonably reliable method of calculation used in good faith. 
+
+CPPA
+ 
+Page 61 of 67 
+(b)   For the purpose of calculating the value of consumer data, a business may consider the 
+value to the business of the data of all natural persons in the United States and not just 
+consumers. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.125, 1798.130 and 
+1798.185, Civil Code. 
+ARTICLE 8. TRAINING AND RECORD-KEEPING 
+§ 7100. Training.
