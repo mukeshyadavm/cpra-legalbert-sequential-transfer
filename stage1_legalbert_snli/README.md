@@ -17,7 +17,6 @@ This stage builds general NLI capability before adapting the model to CPRA-speci
 4. Evaluate model performance  
 5. Save fine-tuned model weights for next training stage
 
-##  Requirements
 
 
 ##  How to Run
@@ -29,11 +28,16 @@ This stage builds general NLI capability before adapting the model to CPRA-speci
 ##  Output
 The notebook produces:
 - Fine-tuned LegalBERT SNLI model  
-- Accuracy/loss metrics  
-- Model weights for Stage 2 (CPRA adaptation)
+- Accuracy/loss metrics
 
-##  Next Step
-After this notebook, continue with:
+##  Requirements
+### Environment
+- **Python ≥ 3.10**
+- **GPU:** NVIDIA T4/A100 (recommended)
+- **RAM:** ≥ 12 GB
+- **Virtual environment:**
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate   # macOS/Linux
+  venv\Scripts\activate      # Windows
 
-**02_Dataset_Preparation.ipynb**  
-to build the CPRA-specific training dataset.
