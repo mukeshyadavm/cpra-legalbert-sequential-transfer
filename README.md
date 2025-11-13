@@ -1,41 +1,44 @@
+# CPPA Article Extraction Script
 
-This script, `extract_opp115_policies.py`, aggregates privacy policy text from the OPP-115 dataset.  
-It combines policy content from multiple CSV files into a single, structured dataset for downstream NLP or compliance analysis.
+This script (`extract_cppa_articles.py`) automates the extraction of specific Articles (2, 3, 7, and 8)from the *California Consumer Privacy Act (CPPA) Regulations* PDF document.  
+It uses the PyMuPDF (`fitz`) library to locate section markers (e.g., “§7010”, “§7020”) and extract all text between them into clean, structured `.txt` files.
 
 ---
 
 ##  Purpose
-The goal is to consolidate all privacy policy statements (from the 4th column of each OPP-115 CSV) into a single file that can be used for:
-- LegalBERT 
-- Natural Language Inference (NLI) model fine-tuning  
-- Privacy compliance classification tasks  
+The goal of this script is to create machine-readable text files for legal NLP tasks such as:
+- Legal clause classification and retrieval  
+- Fine-tuning LegalBERT  models  
+- CPRA/CCPA compliance detection using Natural Language Inference (NLI)  
+- Policy–regulation alignment studies  
 
 ---
 
 ##  How It Works
-1. Reads all `.csv` files in the specified directory (`/mnt/gdrive/MyDrive/OPP-115/pretty_print`).  
-2. Checks each file for at least 4 columns.  
-3. Extracts policy text from column 4 (index 3).  
-4. Skips files with fewer than 4 columns.  
-5. Combines all policies into a single Pandas DataFrame.  
-6. Saves the merged data as a unified CSV file.
+1. Opens the official CPPA Regulations PDF .  
+2. Defines start and end markers for each target article:  
+   - Article 2 → (§7010 – §7020)  
+   - Article 3 → (§7020 – §7050)  
+   - Article 7 → (§7050 – §7100)  
+   - Article 8 → (§7100 – §7300)  
+3. Reads the text of each page line by line.  
+4. Extracts content that falls between the given markers.  
+5. Saves each extracted section into a separate text file.  
 
 ---
 
 ##  Output
-After execution, a single CSV file is generated:
-
-
-
+The following files are generated after running the script:
+article_2_full.txt
+article_3_full.txt
+article_7_full.txt
+article_8_full.txt
 
 
 ##  Requirements
-
-Make sure the following dependencies are installed:
+Ensure the following dependencies are installed:
 
 ```bash
 python>=3.9
-pandas>=2.0.0
-numpy
-tqdm
-pip install -r requirements.txt
+PyMuPDF>=1.22.0   # Provides the 'fitz' module
+re
