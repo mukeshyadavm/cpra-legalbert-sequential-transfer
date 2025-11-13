@@ -1,0 +1,473 @@
+§ 7010. Overview of Required Disclosures. ..................................................................................... 14 
+§ 7011. Privacy Policy. ..................................................................................................................... 14 
+§ 7012. Notice at Collection of Personal Information. .................................................................... 17 
+§ 7013. Notice of Right to Opt-out of Sale/Sharing and the “Do Not Sell or Share My Personal 
+Information” Link. ............................................................................................................................ 20 
+§ 7014. Notice of Right to Limit and the “Limit the Use of My Sensitive Personal Information” 
+Link. .................................................................................................................................................. 22 
+§ 7015. Alternative Opt-out Link. .................................................................................................... 23 
+§ 7016. Notice of Financial Incentive. .............................................................................................. 24 
+ARTICLE 3 . BUSINESS PRACTICES FOR HANDLING CONSUMER REQUESTS ................................... 25 
+§ 7020. Methods for Submitting Requests to Delete, Requests to Correct, and Requests to Know.
+§ 7010. Overview of Required Disclosures. 
+(a) Every business that must comply with the CCPA and these regulations shall provide a 
+privacy policy in accordance with the CCPA and section 7011. 
+(b) A business that controls the collection of a consumer’s personal information from a 
+consumer shall provide a Notice at Collection in accordance with the CCPA and section 
+7012. 
+(c) Except as set forth in section 7025, subsection (g), a business that sells or shares personal 
+information shall provide a Notice of Right to Opt-out of Sale/Sharing or the Alternative 
+Opt-out Link in accordance with the CCPA and sections 7013 and 7015. 
+(d) A business that uses or discloses a consumer’s sensitive personal information for purposes 
+other than those specified in section 7027, subsection (m), shall provide a Notice of Right 
+to Limit or the Alternative Opt-out Link in accordance with the CCPA and sections 7014 and 
+7015.  
+(e) A business that offers a financial incentive or price or service difference shall provide a 
+Notice of Financial Incentive in accordance with the CCPA and section 7016. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 
+1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.125, 1798.130 and 1798.135, Civil 
+Code. 
+§ 7011. Privacy Policy.  
+(a) The purpose of the privacy policy is to provide consumers with a comprehensive 
+description of a business’s online and offline information practices. It shall also inform 
+consumers about the rights they have regarding their personal information and provide 
+any information necessary for them to exercise those rights.  
+(b) The privacy policy shall comply with section 7003, subsections (a) and (b).  
+(c) The privacy policy shall be available in a format that allows a consumer to print it out as a 
+document.  
+(d) The privacy policy shall be posted online and accessible through a conspicuous link that 
+complies with section 7003, subsections (c) and (d), using the word “privacy” on the 
+business’s website homepage(s) or on the download or landing page of a mobile 
+application. If the business has a California-specific description of consumers’ privacy rights 
+on its website, then the privacy policy shall be included in that description. A business that 
+
+CPPA
+ 
+Page 15 of 67 
+does not operate a website shall make the privacy policy conspicuously available to 
+consumers. A mobile application may include a link to the privacy policy in the application’s 
+settings menu.  
+(e) The privacy policy shall include the following information: 
+(1) A comprehensive description of the business’s online and offline information 
+practices, which includes the following: 
+(A) Identification of the categories of personal information the business has 
+collected about consumers in the preceding 12 months. The categories shall be 
+described using the specific terms set forth in Civil Code section 1798.140, 
+subdivisions (v)(1)(A) to (K) and (ae)(1) to (2). To the extent that the business 
+has discretion in its description, the business shall describe the category in a 
+manner that provides consumers a meaningful understanding of the 
+information being collected.  
+(B) Identification of the categories of sources from which the personal information 
+is collected.  
+(C) Identification of the specific business or commercial purpose for collecting 
+personal information from consumers. The purpose shall be described in a 
+manner that provides consumers a meaningful understanding of why the 
+information is collected. 
+(D) Identification of the categories of personal information, if any, that the business 
+has sold or shared to third parties in the preceding 12 months. If the business 
+has not sold or shared consumers’ personal information in the preceding 12 
+months, the business shall disclose that fact. 
+(E) For each category of personal information identified in subsection (e)(1)(D), the 
+categories of third parties to whom the information was sold or shared. 
+(F) Identification of the specific business or commercial purpose for selling or 
+sharing consumers’ personal information. The purpose shall be described in a 
+manner that provides consumers a meaningful understanding of why the 
+information is sold or shared. 
+(G) A statement regarding whether the business has actual knowledge that it sells 
+or shares the personal information of consumers under 16 years of age.  
+(H) Identification of the categories of personal information, if any, that the business 
+has disclosed for a business purpose to third parties in the preceding 12 
+months. If the business has not disclosed consumers’ personal information for a 
+business purpose in the preceding 12 months, the business shall disclose that 
+fact. 
+(I) For each category of personal information identified in subsection (e)(1)(H), the 
+categories of third parties to whom the information was disclosed.  
+
+CPPA
+ 
+Page 16 of 67 
+(J) Identification of the specific business or commercial purpose for disclosing the 
+consumer’s personal information. The purpose shall be described in a manner 
+that provides consumers a meaningful understanding of why the information is 
+disclosed. 
+(K) A statement regarding whether the business uses or discloses sensitive personal 
+information for purposes other than those specified in section 7027, subsection 
+(m).  
+(2) An explanation of the rights that the CCPA confers on consumers regarding their 
+personal information, which includes all of the following:  
+(A) The right to know what personal information the business has collected about 
+the consumer, including the categories of personal information, the categories 
+of sources from which the personal information is collected, the business or 
+commercial purpose for collecting, selling, or sharing personal information, the 
+categories of third parties to whom the business discloses personal information, 
+and the specific pieces of personal information the business has collected about 
+the consumer. 
+(B) The right to delete personal information that the business has collected from 
+the consumer, subject to certain exceptions. 
+(C) The right to correct inaccurate personal information that a business maintains 
+about a consumer.  
+(D) If the business sells or shares personal information, the right to opt-out of the 
+sale or sharing of their personal information by the business. 
+(E) If the business uses or discloses sensitive personal information for reasons 
+other than those set forth in section 7027, subsection (m), the right to limit the 
+use or disclosure of sensitive personal information by the business. 
+(F) The right not to receive discriminatory treatment by the business for the 
+exercise of privacy rights conferred by the CCPA, including an employee’s, 
+applicant’s, or independent contractor’s right not to be retaliated against for 
+the exercise of their CCPA rights.  
+(3) An explanation of how consumers can exercise their CCPA rights and what consumers 
+can expect from that process, which includes all of the following:  
+(A) An explanation of the methods by which the consumer can exercise their CCPA 
+rights. 
+(B) Instructions for submitting a request under the CCPA, including any links to an 
+online request form or portal for making such a request, if offered by the 
+business. 
+
+CPPA
+ 
+Page 17 of 67 
+(C) If the business sells or shares personal information, and is required to provide a 
+Notice of Right to Opt-out of Sale/Sharing, the contents of the Notice of Right to 
+Opt-out of Sale/Sharing or a link to that notice in accordance with section 7013, 
+subsection (f). 
+(D) If the business uses or discloses sensitive personal information for purposes 
+other than those specified in section 7027, subsection (m), and is required to 
+provide a Notice of Right to Limit, the contents of the Notice of Right to Limit or 
+a link to that notice in accordance with section 7014, subsection (f). 
+(E) A general description of the process the business uses to verify a consumer 
+request to know, request to delete, and request to correct, when applicable, 
+including any information the consumer must provide. 
+(F) Explanation of how an opt-out preference signal will be processed for the 
+consumer (i.e., whether the signal applies to the device, browser, consumer 
+account, and/or offline sales, and in what circumstances) and how the 
+consumer can use an opt-out preference signal. 
+(G) If the business processes opt-out preference signals in a frictionless manner, 
+information on how consumers can implement opt-out preference signals for 
+the business to process in a frictionless manner. 
+(H) Instructions on how an authorized agent can make a request under the CCPA on 
+the consumer’s behalf. 
+(I) If the business has actual knowledge that it sells the personal information of 
+consumers under 16 years of age, a description of the processes required by 
+sections 7070 and 7071. 
+(J) A contact for questions or concerns about the business’s privacy policies and 
+information practices using a method reflecting the manner in which the 
+business primarily interacts with the consumer.  
+(4) Date the privacy policy was last updated.  
+(5) If subject to the data reporting requirements set forth in section 7102, the 
+information required under section 7102, or a link to that information. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 
+1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.125, 1798.130 and 1798.135, Civil 
+Code. 
+§ 7012. Notice at Collection of Personal Information. 
+(a) The purpose of the Notice at Collection is to provide consumers with timely notice, at or 
+before the point of collection, about the categories of personal information to be collected 
+from them, the purposes for which the personal information is collected or used, and 
+whether that information is sold or shared, so that consumers have a tool to exercise 
+
+CPPA
+ 
+Page 18 of 67 
+meaningful control over the business’s use of their personal information. For example, 
+upon receiving the Notice at Collection, the consumer can use the information in the 
+notice as a tool to choose whether to engage with the business, or to direct the business 
+not to sell or share their personal information and to limit the use and disclosure of their 
+sensitive personal information. 
+(b) The Notice at Collection shall comply with section 7003, subsections (a) and (b).  
+(c) The Notice at Collection shall be made readily available where consumers will encounter it 
+at or before the point of collection of any personal information. Illustrative examples 
+follow. 
+(1)  When a business collects consumers’ personal information online, it may post a 
+conspicuous link to the notice on the introductory page of the business’s website and 
+on all webpages where personal information is collected.  
+(2)  When a business collects consumers’ personal information through a webform, it may 
+post a conspicuous link to the notice in close proximity to the fields in which the 
+consumer inputs their personal information, or in close proximity to the button by 
+which the consumer submits their personal information to the business.  
+(3)  When a business collects personal information through a mobile application, it may 
+provide a link to the notice on the mobile application’s download page and within the 
+application, such as through the application’s settings menu. 
+(4)  When a business collects consumers’ personal information offline, it may include the 
+notice on printed forms that collect personal information, provide the consumer with 
+a paper version of the notice, or post prominent signage directing consumers to where 
+the notice can be found online.  
+(5)  When a business collects personal information over the telephone or in person, it may 
+provide the notice orally. 
+(d) If a business does not give the Notice at Collection to the consumer at or before the point 
+of collection of their personal information, the business shall not collect personal 
+information from the consumer.  
+(e) A business shall include the following in its Notice at Collection: 
+(1) A list of the categories of personal information about consumers, including categories 
+of sensitive personal information, to be collected. Each category of personal 
+information shall be written in a manner that provides consumers a meaningful 
+understanding of the information being collected. 
+(2) The purpose(s) for which the categories of personal information, including categories 
+of sensitive personal information, are collected and used. 
+(3) Whether each category of personal information identified in subsection (e)(1) is sold 
+or shared. 
+
+CPPA
+ 
+Page 19 of 67 
+(4) The length of time the business intends to retain each category of personal 
+information identified in subsection (e)(1), or if that is not possible, the criteria used to 
+determine the period of time it will be retained. 
+(5) If the business sells or shares personal information, the link to the Notice of Right to 
+Opt-out of Sale/Sharing, or in the case of offline notices, where the webpage can be 
+found online. 
+(6) A link to the business’s privacy policy, or in the case of offline notices, where the 
+privacy policy can be found online. 
+(f) If a business collects personal information from a consumer online, the Notice at Collection 
+may be given to the consumer by providing a link that takes the consumer directly to the 
+specific section of the business’s privacy policy that contains the information required in 
+subsection (e)(1) through (6). Directing the consumer to the beginning of the privacy 
+policy, or to another section of the privacy policy that does not contain the required 
+information, so that the consumer is required to scroll through other information in order 
+to determine the categories of personal information to be collected and/or whether the 
+business sells or shares the personal information collected, does not satisfy this standard. 
+(g) Third Parties that Control the Collection of Personal Information. This subsection shall not 
+affect the first party’s obligations under the CCPA to comply with a consumer’s request to 
+opt-out of sale/sharing. 
+(1) For purposes of giving Notice at Collection, more than one business may control the 
+collection of a consumer’s personal information, and thus, have an obligation to 
+provide a Notice at Collection in accordance with the CCPA and these regulations. For 
+example, a first party may allow another business, acting as a third party, to control 
+the collection of personal information from consumers browsing the first party’s 
+website. Both the first party that allows the third parties to collect personal 
+information via its website, as well as the third party controlling the collection of 
+personal information, shall provide a Notice at Collection. The first party and third 
+parties may provide a single Notice at Collection that includes the required 
+information about their collective information practices. 
+(2) A business that, acting as a third party, controls the collection of personal 
+information on another business’s physical premises, such as in a retail store or in a 
+vehicle, shall provide a Notice at Collection in a conspicuous manner at the physical 
+location(s) where it is collecting the personal information. 
+(3) Illustrative examples follow. 
+(A) Business F allows Business G, a third party ad network, to collect consumers’ 
+personal information through Business F’s website. Business F may post a 
+conspicuous link to its Notice at Collection on its homepage(s). Business G shall 
+provide a Notice at Collection on its homepage(s) or include the required 
+information about its information practices in Business F’s Notice at Collection.  
+
+CPPA
+ 
+Page 20 of 67 
+(B) Business H, a coffee shop, allows Business I, a business providing Wi-Fi services, 
+to collect personal information from consumers using Business I’s services on 
+Business H’s premises. Business H may post conspicuous signage at the 
+entrance of the store or at the point-of-sale directing consumers to where the 
+Notice at Collection for Business H can be found online. In addition, Business I 
+shall post its own Notice at Collection on the first webpage or other interface 
+consumers see before connecting to the Wi-Fi services offered.  
+(C) Business J, a car rental business, allows Business K to collect personal 
+information from consumers within the vehicles Business J rents to consumers. 
+Business J may give its Notice at Collection to the consumer at the point of sale 
+(i.e., at the rental counter) either in writing or orally. Business K may provide its 
+own Notice at Collection within the vehicle, such as through signage on the 
+vehicle’s dashboard directing consumers to where the notice can be found 
+online. 
+(h) A business that neither collects nor controls the collection of personal information directly 
+from the consumer does not need to provide a Notice at Collection to the consumer if it 
+neither sells nor shares the consumer’s personal information. 
+(i) 
+A data broker registered with the Attorney General pursuant to Civil Code section 
+1798.99.80 et seq. that collects personal information from a source other than directly 
+from the consumer does not need to provide a Notice at Collection to the consumer if it 
+has included in its registration submission a link to its online privacy policy that includes 
+instructions on how a consumer can submit a request to opt-out of sale/sharing. 
+Note: Authority: Section 1798.185, Civil Code. Reference: Sections 1798.99.82, 1798.100, 
+1798.115, 1798.120, 1798.121, 1798.145 and 1798.185, Civil Code. 
+§ 7013.  Notice of Right to Opt-out of Sale/Sharing and the “Do Not Sell or Share My Personal 
+Information” Link. 
+(a)  The purpose of the Notice of Right to Opt-out of Sale/Sharing is to inform consumers of 
+their right to direct a business that sells or shares their personal information to stop selling 
+or sharing their personal information and to provide them with the opportunity to exercise 
+that right. The purpose of the “Do Not Sell or Share My Personal Information” link is to 
+immediately effectuate the consumer’s right to opt-out of sale/sharing, or in the 
+alternative, direct the consumer to the Notice of Right to Opt-out of Sale/Sharing. 
+Accordingly, clicking the business’s “Do Not Sell or Share My Personal Information” link will 
+either have the immediate effect of opting the consumer out of the sale or sharing of 
+personal information or lead the consumer to a webpage where the consumer can learn 
+about and make that choice. 
+(b) The Notice of Right to Opt-out of Sale/Sharing shall comply with section 7003, subsections 
+(a) and (b). 
+
+CPPA
+ 
+Page 21 of 67 
+(c) The “Do Not Sell or Share My Personal Information” link shall be a conspicuous link that 
+complies with section 7003, subsections (c) and (d) and is located at either the header or 
+footer of the business’s internet homepage(s). 
+(d) In lieu of posting the “Do Not Sell or Share My Personal Information” link, a business may 
+provide the Alternative Opt-out Link in accordance with section 7015 or process opt-out 
+preference signals in a frictionless manner in accordance with section 7025, subsections (f) 
+and (g). The business must still post a Notice of Right to Opt-out of Sale/Sharing in 
+accordance with these regulations.  
+(e) A business that sells or shares the personal information of consumers shall provide the 
+Notice of Right to Opt-out of Sale/Sharing to consumers as follows: 
+(1) A business shall post the Notice of Right to Opt-out of Sale/Sharing on the internet 
+webpage to which the consumer is directed after clicking on the “Do Not Sell or Share 
+My Personal Information” link. The notice shall include the information specified in 
+subsection (f) or be a link that takes the consumer directly to the specific section of 
+the business’s privacy policy that contains the same information. If clicking on the 
+“Do Not Sell or Share My Personal Information” link immediately effectuates the 
+consumer’s right to opt-out of sale/sharing or if the business processes opt-out 
+preference signals in a frictionless manner and chooses not to post a link, the 
+business shall provide the notice within its privacy policy.  
+(2)  A business that does not operate a website shall establish, document, and comply 
+with another method by which it informs consumers of their right to opt-out of 
+sale/sharing. That method shall comply with the requirements set forth in section 
+7003. 
+(3) A business shall also provide the notice to opt-out of sale/sharing in the same 
+manner in which it collects the personal information that it sells or shares. Illustrative 
+examples follow. 
+(A) A business that sells or shares personal information that it collects in the course 
+of interacting with consumers offline, such as in a brick-and-mortar store, shall 
+provide notice through an offline method, e.g., on the paper forms that collect 
+the personal information or by posting signage in the area where the personal 
+information is collected directing consumers to where the notice can be found 
+online.  
+(B) A business that sells or shares personal information that it collects over the 
+phone shall provide notice orally during the call when the information is 
+collected. 
+(f)  A business shall include the following in its Notice of Right to Opt-out of Sale/Sharing: 
+(1)  A description of the consumer’s right to opt-out of the sale or sharing of their 
+personal information by the business; and 
+
+CPPA
+ 
+Page 22 of 67 
+(2)  Instructions on how the consumer can submit a request to opt-out of sale/sharing. If 
+notice is provided online, the notice shall include the interactive form by which the 
+consumer can submit their request to opt-out of sale/sharing online, as required by 
+section 7026, subsection (a)(1). If the business does not operate a website, the notice 
+shall explain the offline method by which the consumer can submit their request to 
+opt-out of sale/sharing.  
+(g)  A business does not need to provide a Notice of Right to Opt-out of Sale/Sharing or the “Do 
+Not Sell or Share My Personal Information” link if:  
+(1)  It does not sell or share personal information; and  
+(2)  It states in its privacy policy that it does not sell or share personal information.  
+(h)  A business shall not sell or share the personal information it collected during the time the 
+business did not have a Notice of Right to Opt-out of Sale/Sharing posted unless it obtains 
+the consent of the consumer. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.120, 1798.135 and 
+1798.185, Civil Code. 
+§ 7014.  Notice of Right to Limit and the “Limit the Use of My Sensitive Personal Information” 
+Link. 
+(a) The purpose of the Notice of Right to Limit is to inform consumers of their right to limit a 
+business’s use and disclosure of their sensitive personal information and to provide them 
+with the opportunity to exercise that right. The purpose of the “Limit the Use of My 
+Sensitive Personal Information” link is to immediately effectuate the consumer’s right to 
+limit, or in the alternative, direct the consumer to the Notice of Right to Limit. Accordingly, 
+clicking the business’s “Limit the Use of My Sensitive Personal Information” link will either 
+have the immediate effect of limiting the use and disclosure of the consumer’s sensitive 
+personal information or lead the consumer to a webpage where the consumer can learn 
+about and make that choice. 
+(b) The Notice of Right to Limit shall comply with section 7003, subsections (a) and (b).  
+(c) The “Limit the Use of My Sensitive Personal Information” link shall be a conspicuous link 
+that complies with section 7003, subsections (c) and (d), and is located at either the header 
+or footer of the business’s internet homepage(s).  
+(d) In lieu of posting the “Limit the Use of My Sensitive Personal Information” link, a business 
+may provide the Alternative Opt-out Link in accordance with section 7015. The business 
+shall still post a Notice of Right to Limit in accordance with these regulations.  
+(e) A business that uses or discloses a consumer’s sensitive personal information for purposes 
+other than those specified in section 7027, subsection (m), shall provide the Notice of Right 
+to Limit to consumers as follows: 
+
+CPPA
+ 
+Page 23 of 67 
+(1) A business shall post the Notice of Right to Limit on the internet webpage to which 
+the consumer is directed after clicking on the “Limit the Use of My Sensitive Personal 
+Information” link. The notice shall include the information specified in subsection (f) 
+or be a link that takes the consumer directly to the specific section of the business’s 
+privacy policy that contains the same information. If clicking on the “Limit the Use of 
+My Sensitive Personal Information” link immediately effectuates the consumer’s right 
+to limit, the business shall provide the notice within its privacy policy.  
+(2)  A business that does not operate a website shall establish, document, and comply 
+with another method by which it informs consumers of their right to limit. That 
+method shall comply with the requirements set forth in section 7003. 
+(f) A business shall include the following in its Notice of Right to Limit: 
+(1)  A description of the consumer’s right to limit; and 
+(2)  Instructions on how the consumer can submit a request to limit. If notice is provided 
+online, the notice shall include the interactive form by which the consumer can 
+submit their request to limit online, as required by section 7027, subsection (b)(1). If 
+the business does not operate a website, the notice shall explain the offline method 
+by which the consumer can submit their request to limit. 
+(g) A business does not need to provide a Notice of Right to Limit or the “Limit the Use of My 
+Sensitive Personal Information” link if:  
+(1)  It only uses and discloses sensitive personal information that it collected about the 
+consumer for the purposes specified in section 7027, subsection (m), and states so in 
+its privacy policy; or 
+(2) It only collects or processes sensitive personal information without the purpose of 
+inferring characteristics about a consumer, and states so in its privacy policy. 
+(h) A business shall not use or disclose sensitive personal information it collected during the 
+time the business did not have a Notice of Right to Limit posted for purposes other than 
+those specified in section 7027, subsection (m), unless it obtains the consent of the 
+consumer. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.121, 1798.135 and 
+1798.185, Civil Code. 
+§ 7015. Alternative Opt-out Link. 
+(a) The purpose of the Alternative Opt-out Link is to provide businesses the option of 
+providing consumers with a single, clearly-labeled link that allows consumers to easily 
+exercise both their right to opt-out of sale/sharing and right to limit, instead of posting the 
+two separate “Do Not Sell or Share My Personal Information” and “Limit the Use of My 
+Sensitive Personal Information” links. The Alternative Opt-out Link shall direct the 
+
+CPPA
+ 
+Page 24 of 67 
+consumer to a webpage that informs them of both their right to opt-out of sale/sharing 
+and right to limit and provides them with the opportunity to exercise both rights. 
+(b) A business that chooses to use an Alternative Opt-out Link shall title the link, “Your Privacy 
+Choices,” or, “Your California Privacy Choices,” and shall include the following opt-out icon 
+adjacent to the title. The link shall be a conspicuous link that complies with section 7003, 
+subsections (c) and (d), and is located at either the header or footer of the business’s 
+internet homepage(s). The icon shall be approximately the same size as other icons used 
+by the business in the header or footer of its webpage. 
+ 
+  
+(c) The Alternative Opt-out Link shall direct the consumer to a webpage that includes the 
+following information: 
+(1) A description of the consumer’s right to opt-out of sale/sharing and right to limit, 
+which shall comply with section 7003, subsections (a) and (b); and  
+(2) The interactive form or mechanism by which the consumer can submit their request to 
+opt-out of sale/sharing and their right to limit online. The method shall be easy for 
+consumers to execute, shall require minimal steps, and shall comply with section 
+7004.  
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.120, 1798.121, 
+1798.135 and 1798.185, Civil Code. 
+§ 7016. Notice of Financial Incentive.  
+(a)  The purpose of the Notice of Financial Incentive is to explain to the consumer the material 
+terms of a financial incentive or price or service difference the business is offering so that 
+the consumer may make an informed decision about whether to participate. A business 
+that does not offer a financial incentive or price or service difference is not required to 
+provide a Notice of Financial Incentive. 
+(b) The Notice of Financial Incentive shall comply with section 7003, subsections (a) and (b).  
+(c)  The Notice of Financial Incentive shall be readily available where consumers will encounter 
+it before opting-in to the financial incentive or price or service difference. If the business 
+offers the financial incentive or price or service difference online, the notice may be given 
+by providing a link that takes the consumer directly to the specific section of a business’s 
+privacy policy that contains the information required in subsection (d).  
+(d)  A business shall include the following in its Notice of Financial Incentive: 
+(1)  A succinct summary of the financial incentive or price or service difference offered;  
+
+CPPA
+ 
+Page 25 of 67 
+(2)  A description of the material terms of the financial incentive or price or service 
+difference, including the categories of personal information that are implicated by 
+the financial incentive or price or service difference and the value of the consumer’s 
+data; 
+(3)  How the consumer can opt-in to the financial incentive or price or service difference; 
+(4)  A statement of the consumer’s right to withdraw from the financial incentive at any 
+time and how the consumer may exercise that right; and 
+(5)  An explanation of how the price or service difference is reasonably related to the 
+value of the consumer’s data, including: 
+(A) A good-faith estimate of the value of the consumer’s data that forms the basis 
+for offering the price or service difference; and 
+(B) A description of the method(s) the business used to calculate the value of the 
+consumer’s data. 
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.125 and 1798.130, 
+Civil Code. 
+ARTICLE 3. BUSINESS PRACTICES FOR HANDLING CONSUMER REQUESTS 
+§ 7020.  Methods for Submitting Requests to Delete, Requests to Correct, and Requests to
