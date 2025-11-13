@@ -30,10 +30,5 @@ This stage builds general NLI capability before adapting the model to CPRA-speci
 The notebook produces:
 - Fine-tuned LegalBERT SNLI model  
 - Accuracy/loss metrics  
-- Model weights for Stage 2 (CPRA adaptation)
+- Model weights 
 
-##  Next Step
-After this notebook, continue with:
-
-**02_Dataset_Preparation.ipynb**  
-to build the CPRA-specific training dataset.
