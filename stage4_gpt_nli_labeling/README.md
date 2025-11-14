@@ -37,7 +37,7 @@ above a configurable similarity threshold (`0.6`).
 Results are saved as: article3_nli_semantic_pairs_faiss.csv
 
 
-### Step 4 — GPT-4-Turbo Legal NLI Labeling**
+### Step 4 — GPT-4-Turbo Legal NLI Labeling
 The candidate sentence pairs are labeled using GPT-4-Turbo.
 
 The script:
