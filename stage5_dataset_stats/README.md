@@ -53,7 +53,7 @@ These imbalances suggest the need for training strategies such as class-balanced
 <img src="article_row_counts_gray_singlecol (1).png" width="420"/>
 
 #### Figure 4 — Class Distribution Across Articles
-<img src="NLI_Results/class_distribution_grouped.png" width="550"/>
+<img src="class_distribution_grouped (1).png" width="550"/>
 
 ---
 
