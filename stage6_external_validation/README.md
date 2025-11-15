@@ -60,6 +60,6 @@ Overall, the findings confirm that GPT-generated NLI labels provide a trustworth
 
 ## V. Figure — Confusion Matrix
 
-<img src="class_distribution_grouped (1).png" width="550"/>
+<img src="confusion_matrix_snli_ieee (1).png" width="550"/>
 
 
