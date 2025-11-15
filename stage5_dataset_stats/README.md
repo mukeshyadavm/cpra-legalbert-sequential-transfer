@@ -1,4 +1,5 @@
-## Stage 5. Dataset Size and Label Composition
+## Stage 5 — Dataset Size and Label Composition
+
 
 ### Overview
 Figure 3 shows the total number of premise–hypothesis pairs generated for each CPRA/CCPA article.  
