@@ -50,7 +50,7 @@ These imbalances suggest the need for training strategies such as class-balanced
 ### Figures
 
 #### Figure 3 — Dataset Size per Article
-<img src="NLI_Results/article_row_counts_gray_singlecol.png" width="420"/>
+<img src="article_row_counts_gray_singlecol (1).png" width="420"/>
 
 #### Figure 4 — Class Distribution Across Articles
 <img src="NLI_Results/class_distribution_grouped.png" width="550"/>
