@@ -1,9 +1,9 @@
-
+#Figure 3 — Dataset Size per Article
 
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-import os
+
 
 # Paths
 files = {
@@ -60,9 +60,7 @@ print(f"Saved: {out_base}.png and {out_base}.pdf")
 
 
 
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
+#Figure 4 — Class Distribution Across Articles
 
 # ---------- Config ----------
 files = {
