@@ -24,7 +24,7 @@ for name, path in files.items():
 
 articles, counts = zip(*rows_data)
 
-# Research-friendly gray
+
 gray_color = "#6e6e6e"
 
 plt.figure(figsize=(3.4, 2.5), dpi=300)
