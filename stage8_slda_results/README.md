@@ -119,7 +119,7 @@ Macro-F1 is emphasized due to imbalance.
 
 ### 📊 Macro-F1 Comparison Plot (Stage-1 vs Stage-2)
 
-![SLDA Macro-F1 Chart](slda_f1_grouped_research (1).png)
+<img src="slda_f1_grouped_research (1).png" width="420"/>
 
 ---
 
