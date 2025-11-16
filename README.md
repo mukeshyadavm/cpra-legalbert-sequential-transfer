@@ -15,9 +15,11 @@ Clarkson University, Potsdam, USA
 
 #  Abstract
 This repository presents a complete research pipeline for detecting CPRA compliance violations in privacy policies using Sequential Legal Domain Adaptation (SLDA), combining LegalBERT, SNLI pretraining, GPT‑generated NLI pairs, SBERT clustering, FAISS retrieval, and multi-stage fine-tuning across CPRA articles.
+  
+The full research PDF is available here:
 
-The full research PDF is available here:  
-📄 **[Download Research Paper](Docs/_Enhancing_CPRA_Compliance_Detection_Using_LegalBERT_and_NLI_Style_Inference_.pdf)**
+📄 **[Download Research Paper](DOC/_Enhancing_CPRA_Compliance_Detection_Using_LegalBERT_and_NLI_Style_Inference_.pdf)**
+
 
 ---
 
