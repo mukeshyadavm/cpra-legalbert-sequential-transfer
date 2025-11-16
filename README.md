@@ -25,7 +25,7 @@ The full research PDF is available here:
 ```
 cpra-legalbert-sequential-transfer/
 │
-├── docs/
+├── Docs/
 │   └── _Enhancing_CPRA_Compliance_Detection_Using_LegalBERT_and_NLI_Style_Inference_.pdf
 │  
 │
