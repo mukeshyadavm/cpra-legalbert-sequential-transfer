@@ -24,16 +24,70 @@ The full research PDF is available here:
 # 📂 Repository Structure
 ```
 cpra-legalbert-sequential-transfer/
+│
 ├── docs/
-    └── _Enhancing_CPRA_Compliance_Detection_Using_LegalBERT_and_NLI_Style_Inference_.pdf
+│   └── _Enhancing_CPRA_Compliance_Detection_Using_LegalBERT_and_NLI_Style_Inference_.pdf
+│  
+│
 ├── stage1_legalbert_snli/
+│   ├── README.md
+│   └── legalbert_snli_fine_tuning.py
+│
 ├── stage2_opp115_preprocessing/
+│   ├── README.md
+│   ├── extract_opp115_policies_py.py
+│   └── opp115_all_policies_combined (3).csv
+│
 ├── stage3_cppa_extraction/
+│   ├── README.md
+│   ├── article_2_full (1).txt
+│   ├── article_3_full.txt
+│   ├── article_7_full.txt
+│   ├── article_8_full.txt
+│   └── extract_cppa_articles.py
+│
 ├── stage4_gpt_nli_labeling/
+│   ├── README.md
+│   ├── article2_nli_semantic_pairs_faiss.csv
+│   ├── article2_nli_semantic_pairs_labeled.csv
+│   ├── article3_nli_semantic_pairs_faiss.csv
+│   ├── article3_nli_semantic_pairs_labeled.csv
+│   ├── article7_nli_semantic_pairs_faiss.csv
+│   ├── article7_nli_semantic_pairs_labeled.csv
+│   ├── article8_nli_semantic_pairs_faiss.csv
+│   ├── article8_nli_semantic_pairs_labeled.csv
+│   └── stage4_gpt_nli_labeling.py
+│
 ├── stage5_dataset_stats/
+│   ├── README.md
+│   ├── article_row_counts_gray_singlecol (1).png
+│   ├── class_distribution_grouped (1).png
+│   └── stage_5__dataset_size_and_label_composition.py
+│
 ├── stage6_external_validation/
+│   ├── README.md
+│   ├── confusion_matrix_snli_ieee (1).png
+│   └── stage_6__external_validation_using_snli.py
+│
 ├── stage7_slda_training/
-└── stage8_slda_results/
+│   ├── README.md
+│   ├── config.json
+│   ├── slda_train.py
+│   ├── special_tokens_map.json
+│   ├── tokenizer.json
+│   ├── tokenizer_config.json
+│   └── vocab.txt
+│
+├── stage8_slda_results/
+│   ├── README.md
+│   ├── slda_f1_grouped_research (1).png
+│   ├── slda_results.csv
+│   └── stage8_slda_results.py
+│
+├── .gitignore
+├── LICENSE
+└── README.md
+
 
 ```
 
