@@ -24,7 +24,8 @@ The full research PDF is available here:
 # 📂 Repository Structure
 ```
 cpra-legalbert-sequential-transfer/
-│
+├── docs/
+    └── _Enhancing_CPRA_Compliance_Detection_Using_LegalBERT_and_NLI_Style_Inference_.pdf
 ├── stage1_legalbert_snli/
 ├── stage2_opp115_preprocessing/
 ├── stage3_cppa_extraction/
@@ -32,9 +33,8 @@ cpra-legalbert-sequential-transfer/
 ├── stage5_dataset_stats/
 ├── stage6_external_validation/
 ├── stage7_slda_training/
-├── stage8_slda_results/
-└── docs/
-    └── _Enhancing_CPRA_Compliance_Detection_Using_LegalBERT_and_NLI_Style_Inference_.pdf
+└── stage8_slda_results/
+
 ```
 
 ---
