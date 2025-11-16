@@ -49,7 +49,7 @@ os.makedirs(OUT_DIR, exist_ok=True)
 
 All checkpoints are written to:
 /mnt/gdrive/MyDrive/SLDA_checkpoints
-
+---
 ## 3. Hyperparameters and A100 Knobs
 SEED          = 42
 VAL_FRAC      = 0.1
@@ -100,6 +100,7 @@ Per-class F1: f1_entailment, f1_contradiction, f1_neutral
 
 The make_metrics() factory builds the compute_metrics function passed to Trainer.
 
+---
 ## 5. Class-Weighted Trainer
 
 The script defines a custom WeightedTrainer:
