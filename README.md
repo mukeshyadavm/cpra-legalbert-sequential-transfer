@@ -120,7 +120,7 @@ Macro‑F1 improvements after Stage‑2 fine‑tuning:
 ---
 
 
-## 📚 Citation
+##  Citation
 
 If you use this repository in your research, please cite:
 
