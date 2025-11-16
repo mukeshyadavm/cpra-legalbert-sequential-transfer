@@ -120,7 +120,7 @@ Macro‑F1 improvements after Stage‑2 fine‑tuning:
 ---
 
 
-##  Citation
+## 📚 Citation
 
 If you use this repository in your research, please cite:
 
@@ -128,7 +128,8 @@ If you use this repository in your research, please cite:
 Yadav, M., & Chaudhry, S. A. (2025). *Enhancing CPRA Compliance Detection Using LegalBERT and NLI-Style Inference*.  
 Department of Applied Data Science, Clarkson University, Potsdam, USA;  
 David D. Reh School of Business, Clarkson University, Potsdam, USA.  
-Emails: yadavm@clarkson.edu, schaudhr@clarkson.edu.
+Emails: yadavm@clarkson.edu, schaudhr@clarkson.edu.  
+GitHub: https://github.com/mukeshyadavm/cpra-legalbert-sequential-transfer
 
 ### BibTeX
 @techreport{yadav2025cpra,
@@ -139,14 +140,17 @@ Emails: yadavm@clarkson.edu, schaudhr@clarkson.edu.
   year         = {2025},
   url          = {https://github.com/mukeshyadavm/cpra-legalbert-sequential-transfer},
   note         = {
-    Mukesh Yadav, Department of Applied Data Science, (Email: yadavm@clarkson.edu);
+    Mukesh Yadav, Department of Applied Data Science (Email: yadavm@clarkson.edu); 
     Shafique A. Chaudhry, David D. Reh School of Business (Email: schaudhr@clarkson.edu).
   }
 }
 
 ### IEEE
-M. Yadav and S. A. Chaudhry, "Enhancing CPRA Compliance Detection Using LegalBERT and NLI-Style Inference," 
-Clarkson University, Potsdam, NY, USA, 2025.
+M. Yadav and S. A. Chaudhry, “Enhancing CPRA Compliance Detection Using LegalBERT and NLI-Style Inference,”  
+Clarkson University, Potsdam, NY, USA, 2025.  
+Available: https://github.com/mukeshyadavm/cpra-legalbert-sequential-transfer  
+Emails: yadavm@clarkson.edu, schaudhr@clarkson.edu.
+
 
 
 ---
