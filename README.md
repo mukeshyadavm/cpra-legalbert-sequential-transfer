@@ -22,7 +22,7 @@ This repository presents a complete research pipeline for detecting CPRA complia
 
 You can download the full research paper here:
 
- **https://bit.ly/cpra-paper**
+  https://bit.ly/43ASoKZ
 
 
 
