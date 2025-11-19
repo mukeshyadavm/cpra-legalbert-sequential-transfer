@@ -1,15 +1,28 @@
 
 # CPRA–LegalBERT Sequential Transfer Learning (SLDA Pipeline)
 
-### Mukesh Yadav  
+---
+
+### **Authors**
+
+---
+
+### **Mukesh Yadav**  
 Department of Applied Data Science  
 Clarkson University, Potsdam, USA  
-📧 yadavm@clarkson.edu  
+📧 [yadvm@clarkson.edu](mailto:yadvm@clarkson.edu)
 
-### Shafique A. Chaudhry  
+---
+
+### **Shafique A. Chaudhry, PhD**  
+Associate Professor of Information Systems  
 David D. Reh School of Business  
 Clarkson University, Potsdam, USA  
-📧 schaudhr@clarkson.edu  
+📧 [schaudhr@clarkson.edu](mailto:schaudhr@clarkson.edu)
+
+---
+
+
 
 ---
 
